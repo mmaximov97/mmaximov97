@@ -2,8 +2,6 @@
 
 **Product Engineer | I ship entire products — from architecture to deployment**
 
-Serbia | [LinkedIn](https://www.linkedin.com/in/mmaximov97)
-
 ---
 
 I build products, not just features. 10+ years shipping end-to-end platforms in fintech, HR-tech, and e-commerce — owning everything from data model design to CI/CD deployment. I think in business outcomes: user impact, time saved, revenue enabled.
