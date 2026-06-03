@@ -1,12 +1,12 @@
 # Mikhail Maximov
 
-**Product Engineer | I ship entire products — from architecture to deployment**
+**Software Engineer | I ship entire products — from architecture to deployment**
 
 ---
 
-I build products, not just features. 10+ years shipping end-to-end platforms in fintech, HR-tech, and e-commerce — owning everything from data model design to CI/CD deployment. I think in business outcomes: user impact, time saved, revenue enabled.
+I build products, not just features. Shipping end-to-end platforms in fintech, HR-tech, and e-commerce — owning everything from data model design to CI/CD deployment. I think in business outcomes: user impact, time saved, revenue enabled.
 
-**Stack:** Node.js, Go, Vue.js 3, React, PostgreSQL, Redis, Docker, Telegram ecosystem, OpenAI/Claude API
+**Stack:** Node.js, Go, Vue.js 3, React, PostgreSQL, Redis, Docker, Telegram ecosystem, OpenAI/Claude API, Local Inferences, ollama.cpp
 
 ---
 
@@ -23,8 +23,6 @@ I build products, not just features. 10+ years shipping end-to-end platforms in 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)
 
 ---
@@ -34,7 +32,7 @@ I build products, not just features. 10+ years shipping end-to-end platforms in 
 - **Ship fast:** Typical MVP in 2-4 weeks. Full ownership from data model to deployment.
 - **Product thinking:** I question scope, suggest simpler solutions, and optimize for user outcomes — not just build what's asked.
 - **AI-native:** Production experience with OpenAI API, Claude API, Whisper API. Built AI-powered resume parsing, signal extraction, conversational features.
-- **Telegram ecosystem expert:** 5+ production bots and Mini Apps with deep knowledge of Bot API, Web Apps, and payments.
+- **Telegram ecosystem expert:** Production bots and Mini Apps with deep knowledge of Bot API, Web Apps, and payments.
 
 ---
 
